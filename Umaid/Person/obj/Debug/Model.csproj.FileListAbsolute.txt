@@ -1,0 +1,6 @@
+C:\Users\ANbla\OneDrive\Documents\C#\Umaid\Person\bin\Debug\Person.dll
+C:\Users\ANbla\OneDrive\Documents\C#\Umaid\Person\bin\Debug\Person.pdb
+C:\Users\ANbla\OneDrive\Documents\C#\Umaid\Person\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\ANbla\OneDrive\Documents\C#\Umaid\Person\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\ANbla\OneDrive\Documents\C#\Umaid\Person\obj\Debug\Person.dll
+C:\Users\ANbla\OneDrive\Documents\C#\Umaid\Person\obj\Debug\Person.pdb
