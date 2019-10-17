@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMaidConsole", "UMaidConsole\UMaidConsole.csproj", "{A82B6C83-28CD-4D1E-ABA1-B6EE84A8E3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{5819D67E-C639-425D-BCB1-4833D27CB6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82B6C83-28CD-4D1E-ABA1-B6EE84A8E3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82B6C83-28CD-4D1E-ABA1-B6EE84A8E3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82B6C83-28CD-4D1E-ABA1-B6EE84A8E3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82B6C83-28CD-4D1E-ABA1-B6EE84A8E3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5819D67E-C639-425D-BCB1-4833D27CB6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5819D67E-C639-425D-BCB1-4833D27CB6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5819D67E-C639-425D-BCB1-4833D27CB6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5819D67E-C639-425D-BCB1-4833D27CB6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8895ACD9-F125-47D9-8A7D-3B4CC538F308}
+	EndGlobalSection
+EndGlobal
